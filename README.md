@@ -22,7 +22,7 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 6.3 LTS (6000.3.2f1)
+Unity 6.4 (6000.4.5f1)
 
 
 
